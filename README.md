@@ -14,7 +14,7 @@ pip install re
 
 TECHNOLOGIES USED :
 
-1) On the frontend side technologies used are HTML, CSS (which is stored in template folder)<br>
+1) On the frontend side technologies used are HTML, CSS (which is stored in templates folder)<br>
 2) For web scrapping technology used is bs4 (BeautifulSoup)<br>
 3) To validate the input phython package used is re<br>
 4) To operate on list/array numpy is used <br>
